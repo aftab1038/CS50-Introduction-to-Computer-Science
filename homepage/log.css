@@ -1,0 +1,36 @@
+.main {
+    height: 27rem;
+    width: 96%;
+    border: 2px solid rgb(231, 220, 199);
+    border-radius: 0.5rem;
+    margin: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    background-color: #410905c1;
+}
+
+.main img {
+    height: 7.8rem;
+    opacity: 1;
+    position: absolute;
+    top: 5.5rem;
+    right: 1.8rem;
+}
+
+p {
+    color: aliceblue;
+    margin-left: 2rem;
+    padding: 0 0 1rem 0;
+    text-align: justify;
+}
+
+* {
+    box-sizing: border-box
+}
+
+
+hr {
+    border: 1.2px solid #f1f1f1;
+    margin-bottom: 25px;
+}
+
