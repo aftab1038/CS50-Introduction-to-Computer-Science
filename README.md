@@ -1,6 +1,6 @@
 ## CS50: Introduction to Computer Science
 I made this repository to post my solutions for the problems of Harvard University Course CS50:Introduction to Computer Science 2023.
-You can find the materials for this course <a href='https://cs50.harvard.edu/x/2020/'>here</a>.
+You can find the materials for this course <a href='https://cs50.harvard.edu/x/2023/'>here</a>.
 Hope this is helpful to other students, if you don't mind please leave a star!
 Every exercise in this repository scored 100% on submission.
 
